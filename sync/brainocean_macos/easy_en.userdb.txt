@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	2
+#@/user_id	brainocean_macos
+english 	english	c=1 d=0.995012 t=2
+offer 	offer	c=1 d=1 t=2

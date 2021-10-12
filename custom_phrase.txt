@@ -16,6 +16,7 @@
 #
 # no comment
 
+SAP	sap	1
 Rime	rime	4
 鼠须管	rime	3
 https://rime.im/	rime	2

@@ -1,0 +1,1383 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	1819
+#@/user_id	brainocean_macos
+a 	啊	c=2 d=0.118374 t=1818
+a li 	阿里	c=0 d=1.20363e-05 t=1818
+a li yun 	阿里雲	c=2 d=0.000244376 t=1818
+ai hao zhe 	愛好者	c=1 d=0.0178634 t=1818
+an ji hua 	按計劃	c=1 d=0.00211225 t=1818
+an pai 	安排	c=4 d=0.0025784 t=1818
+an xin 	安心	c=0 d=0.00655462 t=1818
+an zhao 	按照	c=0 d=0.00514636 t=1818
+an zhao cheng xu 	按照程序	c=2 d=0.0116142 t=1818
+an zhuang 	安裝	c=1 d=0.000699601 t=1818
+ba 	吧	c=9 d=1.1203 t=1818
+ba 	把	c=5 d=0.0982312 t=1818
+bai du 	百度	c=0 d=0.00561348 t=1818
+bai du wang pan 	百度網盤	c=1 d=0.0564161 t=1818
+ban 	搬	c=0 d=0.000289433 t=1818
+ban 	班	c=0 d=0.00174224 t=1818
+ban ben hao 	版本號	c=1 d=0.00278085 t=1818
+ban dao 	搬到	c=0 d=0.000283702 t=1818
+ban dao wu lou 	搬到五樓	c=1 d=0.00285124 t=1818
+ban fa 	辦法	c=1 d=0.00813635 t=1818
+ban wan 	辦完	c=0 d=0.00381969 t=1818
+ban xiao shi 	半小時	c=1 d=0.0988619 t=1818
+ban xiao shi zhi hou 	半小時之後	c=1 d=0.000769323 t=1818
+ban zi 	板子	c=2 d=0.0174698 t=1818
+bang 	幫	c=1 d=0.00891518 t=1818
+bang mang 	幫忙	c=0 d=0.000119453 t=1818
+bang mang ma 	幫忙嗎	c=1 d=0.00120052 t=1818
+bang ni 	幫你	c=2 d=0.122494 t=1818
+bang ni wen wen 	幫你問問	c=1 d=0.509156 t=1818
+bang wo 	幫我	c=3 d=0.0118825 t=1818
+bao 	報	c=0 d=0.00108347 t=1818
+bao 	寶	c=0 d=0.000408677 t=1818
+bao kuo 	包括	c=1 d=0.000241172 t=1818
+bao ming 	報名	c=3 d=0.130574 t=1818
+bao shang qu ba 	報上去吧	c=1 d=0.010889 t=1818
+bei 	唄	c=1 d=0.172907 t=1818
+bei 	貝	c=0 d=0.0151072 t=1818
+bei sai er 	貝賽爾	c=1 d=0.15259 t=1818
+bei ye si qu xian 	貝葉斯曲線	c=1 d=0.151829 t=1818
+ben chi 	奔馳	c=2 d=0.00150259 t=1818
+ben ren 	本人	c=0 d=0.000194986 t=1818
+bi jiao 	比較	c=1 d=0.358796 t=1818
+bi jiao da 	比較大	c=1 d=0.0590129 t=1818
+bi jing 	畢竟	c=1 d=0.00114769 t=1818
+bi ru 	比如	c=0 d=0.00278757 t=1818
+bi ru yuan cheng 	比如遠程	c=1 d=0.0280154 t=1818
+bian cheng 	編程	c=1 d=0.0175975 t=1818
+bian dong 	變動	c=1 d=0.00032718 t=1818
+bian ma 	編碼	c=0 d=0.186946 t=1818
+bian yu 	便於	c=1 d=0.000547008 t=1818
+bian yu jiang lai 	便於將來	c=1 d=0.00112497 t=1818
+biao 	表	c=1 d=0.0413782 t=1818
+biao shi 	標識	c=0 d=8.04733e-05 t=1818
+biao ti 	標題	c=0 d=0.000139481 t=1818
+biao xian xing shi 	表現形式	c=1 d=0.00019258 t=1818
+biao zhun cheng xu 	標準程序	c=1 d=0.00406639 t=1818
+bie 	別	c=0 d=0.00300468 t=1818
+bing 	並	c=1 d=0.331211 t=1818
+bing qie 	並且	c=1 d=0.000488095 t=1818
+bu 	不	c=1 d=0.033432 t=1818
+bu 	補	c=0 d=0.0145148 t=1818
+bu fang bian 	不方便	c=1 d=0.111359 t=1818
+bu fen 	部分	c=1 d=0.000825105 t=1818
+bu guo 	不過	c=3 d=0.232485 t=1818
+bu hui you da de gai dong le 	不會有大的改動了	c=1 d=0.00118265 t=1818
+bu ke qi 	不客氣	c=2 d=0.569139 t=1818
+bu liao 	不了	c=1 d=0.0461896 t=1818
+bu neng 	不能	c=3 d=0.0536792 t=1818
+bu qi zuo yong 	不起作用	c=1 d=0.00332928 t=1818
+bu shang 	不上	c=0 d=0.00104099 t=1818
+bu shang 	補上	c=0 d=4.88095e-05 t=1818
+bu shang le 	補上了	c=1 d=0.000490542 t=1818
+bu shi 	不是	c=2 d=0.0169386 t=1818
+bu shi cheng xu de wen ti 	不是程序的問題	c=1 d=0.00690852 t=1818
+bu shi cong ni men dian li mai de 	不是從你們店裏買的	c=1 d=0.00267181 t=1818
+bu shi ting ke le ma 	不是停課了嗎	c=1 d=0.0393602 t=1818
+bu shu 	部署	c=1 d=0.000143992 t=1818
+bu shu huan jing 	部署環境	c=1 d=0.000128446 t=1818
+bu tai duo 	不太多	c=1 d=0.00250366 t=1818
+bu tai hao 	不太好	c=1 d=0.120633 t=1818
+bu tai qing chu 	不太清楚	c=0 d=2.31716e-05 t=1818
+bu xing 	不行	c=1 d=0.0621104 t=1818
+bu yao 	不要	c=0 d=0.000289433 t=1818
+bu yao ban 	不要搬	c=1 d=0.00290884 t=1818
+bu ying gai yi dian fan ying ye mei you 	不應該一點反應也沒有	c=1 d=0.00271219 t=1818
+bu yong 	不用	c=1 d=0.810584 t=1818
+bu yong dan xin 	不用擔心	c=0 d=0.00710054 t=1818
+bu yong le ba 	不用了吧	c=1 d=0.159614 t=1818
+bu zhao ji 	不着急	c=1 d=0.0298969 t=1818
+bu zhou 	步驟	c=2 d=0.0545944 t=1818
+bu zou 	不走	c=0 d=0.0154896 t=1818
+cai liao 	材料	c=0 d=0.102555 t=1818
+can jia 	參加	c=1 d=0.62816 t=1818
+can jia yi xia 	參加一下	c=1 d=0.00023056 t=1818
+ce shi 	測試	c=5 d=0.0139229 t=1818
+ceng 	層	c=1 d=0.000135551 t=1818
+cha che 	叉車	c=0 d=1.59256e-05 t=1818
+cha jian 	插件	c=2 d=0.105005 t=1818
+chan pin 	產品	c=1 d=0.000173384 t=1818
+chang 	長	c=0 d=0.0918512 t=1818
+chang di 	場地	c=1 d=0.000439444 t=1818
+chang du 	長度	c=1 d=0.000365224 t=1818
+chang san jiao 	長三角	c=1 d=0.0403566 t=1818
+chang shi 	嘗試	c=0 d=0.00132999 t=1818
+chang shi ji yi 	長時記憶	c=1 d=0.923116 t=1818
+chang yong 	常用	c=1 d=0.00122477 t=1818
+chen dian 	沉澱	c=1 d=0.000288735 t=1818
+cheng 	乘	c=1 d=0.594521 t=1818
+cheng gong 	成功	c=2 d=0.0974103 t=1818
+cheng hu 	稱呼	c=0 d=0.00374406 t=1818
+cheng jian 	成建	c=1 d=0.00217658 t=1818
+cheng pin 	成品	c=2 d=1.73007 t=1818
+cheng xu 	程序	c=1 d=0.00886659 t=1818
+cheng yuan 	成員	c=1 d=0.453845 t=1818
+chong dian 	充電	c=0 d=0.000408677 t=1818
+chong dian bao 	充電寶	c=1 d=0.00410726 t=1818
+chong xin 	重新	c=2 d=0.998803 t=1818
+chou 	抽	c=1 d=0.000182274 t=1818
+chu 	初	c=0 d=2.73284e-05 t=1818
+chu bu she xiang 	初步設想	c=0 d=5.84356e-05 t=1818
+chu bu she xiang de bu zhou 	初步設想的步驟	c=1 d=0.000587285 t=1818
+chu diao 	出掉	c=1 d=0.035437 t=1818
+chu gao 	初稿	c=1 d=0.0253494 t=1818
+chu lai 	出來	c=1 d=0.0029767 t=1818
+chuan gan qi 	傳感器	c=5 d=0.101812 t=1818
+chuan kou 	串口	c=1 d=0.00814786 t=1818
+chuan qi 	傳奇	c=1 d=0.000284437 t=1818
+chuan xing 	串行	c=1 d=0.00759701 t=1818
+ci ci 	此次	c=1 d=0.346456 t=1818
+ci pin 	詞頻	c=3 d=2.71453 t=1818
+cong 	從	c=2 d=0.0797371 t=1818
+cu jin 	促進	c=1 d=0.000399619 t=1818
+cui 	崔	c=0 d=4.68957e-05 t=1818
+cui hong xia 	崔紅霞	c=1 d=0.000471307 t=1818
+da de 	大的	c=0 d=0.000117675 t=1818
+da dian hua 	打電話	c=1 d=0.00172074 t=1818
+da gai 	大概	c=3 d=1.5915 t=1818
+da jia 	大家	c=1 d=0.197946 t=1818
+da jia tao lun 	大家討論	c=1 d=0.33454 t=1818
+da jian 	搭建	c=1 d=0.856415 t=1818
+da kai 	打開	c=1 d=0.00101284 t=1818
+da le 	打了	c=1 d=0.000829241 t=1818
+da ping 	大屏	c=2 d=0.000853294 t=1818
+da tiao zhan 	大挑戰	c=4 d=0.210453 t=1818
+da xing 	大型	c=2 d=0.0402095 t=1818
+dai 	代	c=1 d=0.873716 t=1818
+dai ma 	代碼	c=1 d=0.000156102 t=1818
+dai pin 	代拼	c=2 d=1.78275 t=1818
+dai shu 	代數	c=1 d=0.579842 t=1818
+dai ti 	代替	c=1 d=0.194952 t=1818
+dan ci 	單詞	c=0 d=0.0941765 t=1818
+dan shi 	但是	c=4 d=0.375962 t=1818
+dan shi cheng xu 	但是程序	c=1 d=0.00711891 t=1818
+dan shi you yi ge 	但是有一個	c=1 d=0.000125275 t=1818
+dang cheng 	當成	c=1 d=0.0437178 t=1818
+dao 	到	c=4 d=1.48372 t=1818
+dao chu 	導出	c=1 d=0.000611253 t=1818
+dao gou 	導購	c=1 d=0.0184997 t=1818
+dao huo 	到貨	c=1 d=0.0333733 t=1818
+dao ru 	導入	c=0 d=0.0110251 t=1818
+de 	的	c=104 d=11.2187 t=1818
+de hua 	的話	c=2 d=0.245625 t=1818
+de shi hou 	的時候	c=1 d=0.00637737 t=1818
+de tai du 	的態度	c=0 d=0.000194986 t=1818
+de xin 	的心	c=1 d=0.07502 t=1818
+dei ei zhe 	得誒着	c=1 d=0.000113353 t=1818
+deng 	燈	c=0 d=0.000477195 t=1818
+deng 	等	c=1 d=0.0254765 t=1818
+deng lu 	登錄	c=3 d=0.150332 t=1818
+deng nin 	等您	c=1 d=0.0147723 t=1818
+deng xia 	等下	c=1 d=0.233603 t=1818
+deng xia you kong le 	等下有空了	c=1 d=0.00204983 t=1818
+deng ye bu liang 	燈也不亮	c=1 d=0.00479587 t=1818
+di 	第	c=2 d=0.000395227 t=1818
+di er 	第二	c=0 d=0.0146607 t=1818
+di er feng 	第二封	c=1 d=0.147342 t=1818
+di fang 	地方	c=0 d=0.000241755 t=1818
+di yi bu 	第一步	c=1 d=0.0523397 t=1818
+di yi feng 	第一封	c=1 d=0.144424 t=1818
+di zhi 	地址	c=2 d=0.105512 t=1818
+dian ba 	點吧	c=0 d=0.0276651 t=1818
+dian ban 	點半	c=1 d=0.839868 t=1818
+dian hua 	電話	c=5 d=0.980674 t=1818
+dian ji 	電機	c=3 d=0.0604445 t=1818
+dian li 	店裏	c=0 d=0.000265848 t=1818
+dian yuan 	電源	c=0 d=0.000631391 t=1818
+dian zhong 	點鐘	c=1 d=0.279431 t=1818
+diao yong 	調用	c=1 d=0.109154 t=1818
+ding 	丁	c=0 d=0.00550232 t=1818
+ding 	定	c=0 d=0.0980199 t=1818
+ding lao shi 	丁老師	c=4 d=0.320472 t=1818
+ding yi ge ban xiao shi ba 	定一個半小時吧	c=1 d=0.985112 t=1818
+dong shi 	董事	c=0 d=4.55097e-05 t=1818
+dou 	都	c=0 d=0.00390705 t=1818
+dou neng 	都能	c=1 d=0.157237 t=1818
+dou shi guo 	都試過	c=1 d=0.00256704 t=1818
+dou yao 	都要	c=0 d=0.0237072 t=1818
+dou yao zuo na xie ren wu 	都要做哪些任務	c=1 d=0.000145549 t=1818
+dou yi jing fu kuan le 	都已經付款了	c=1 d=0.0366992 t=1818
+du bang 	杜邦	c=0 d=0.00117371 t=1818
+du bang xian 	杜邦線	c=1 d=0.0117959 t=1818
+du qu 	讀取	c=1 d=0.00275318 t=1818
+duan 	短	c=1 d=0.360595 t=1818
+dui 	對	c=4 d=0.328513 t=1818
+dui ba 	對吧	c=1 d=0.0426384 t=1818
+dui bi 	對比	c=1 d=0.000254808 t=1818
+dui chen 	對稱	c=2 d=0.371818 t=1818
+dui de 	對的	c=1 d=0.00970611 t=1818
+duo 	多	c=1 d=0.0739031 t=1818
+duo shao 	多少	c=1 d=0.000236397 t=1818
+duo shao shi jian 	多少時間	c=0 d=1.6826e-05 t=1818
+duo xie 	多謝	c=0 d=0.00151463 t=1818
+duo xie duo xie 	多謝多謝	c=1 d=0.0152222 t=1818
+e yu 	鱷魚	c=1 d=0.000884932 t=1818
+e yu jia 	鱷魚夾	c=3 d=0.018505 t=1818
+en en 	嗯嗯	c=6 d=0.663767 t=1818
+er bu shi 	而不是	c=1 d=0.00386807 t=1818
+er lou 	二樓	c=1 d=0.798516 t=1818
+fa 	發	c=2 d=0.0617672 t=1818
+fa cuo 	發錯	c=0 d=2.18221e-05 t=1818
+fa ge 	發個	c=0 d=0.0018456 t=1818
+fa ge wei xin 	發個微信	c=1 d=0.0149956 t=1818
+fa gei 	發給	c=1 d=0.0916297 t=1818
+fa gei nin 	發給您	c=1 d=0.0112769 t=1818
+fa gei wo 	發給我	c=1 d=0.0721066 t=1818
+fa gei wo de huo 	發給我的貨	c=1 d=0.00775048 t=1818
+fa gei wo yi xia 	發給我一下	c=1 d=0.715338 t=1818
+fa le 	發了	c=1 d=0.161218 t=1818
+fa song 	發送	c=1 d=0.142274 t=1818
+fa xian 	發現	c=0 d=0.00023935 t=1818
+fa yi ge 	發一個	c=1 d=1 t=1818
+fan 	反	c=0 d=0.000494193 t=1818
+fan qiang 	翻牆	c=1 d=0.918512 t=1818
+fan wei 	範圍	c=2 d=0.000721375 t=1818
+fan yi 	翻譯	c=1 d=0.00119453 t=1818
+fan yi cheng 	翻譯成	c=1 d=0.000203468 t=1818
+fan ying 	反應	c=1 d=0.00584186 t=1818
+fang an 	方案	c=1 d=0.0808629 t=1818
+fang bian 	方便	c=5 d=0.243672 t=1818
+fang bian le 	方便了	c=1 d=0.0148464 t=1818
+fang bian shi pin 	方便視頻	c=1 d=0.00726273 t=1818
+fang bu xia 	放不下	c=1 d=0.0599047 t=1818
+fang da jing 	放大鏡	c=1 d=0.000174253 t=1818
+fang fa 	方法	c=1 d=0.00501661 t=1818
+fang mian 	方面	c=1 d=0.000575656 t=1818
+fang shi 	方式	c=1 d=0.00755912 t=1818
+fang xin 	放心	c=2 d=0.0586106 t=1818
+fang zai 	放在	c=3 d=0.583468 t=1818
+fei 	非	c=1 d=0.0186697 t=1818
+fei jie chu shi 	非接觸式	c=2 d=0.100123 t=1818
+fei jie chu shi kuai di xiao du xiang 	非接觸式快遞消毒箱	c=1 d=0.0163259 t=1818
+fen bie 	分別	c=1 d=0.00252883 t=1818
+fen gong 	分工	c=0 d=0.000222055 t=1818
+fen xiang 	分享	c=3 d=0.475893 t=1818
+fen xiang hui 	分享會	c=2 d=0.000698446 t=1818
+feng 	封	c=0 d=0.0414212 t=1818
+feng hen da 	風很大	c=0 d=0.00380064 t=1818
+feng hen da ba 	風很大吧	c=1 d=0.0381969 t=1818
+feng ming qi 	蜂鳴器	c=4 d=0.0235287 t=1818
+feng xian 	風險	c=1 d=0.177284 t=1818
+fou ding 	否定	c=1 d=0.0784731 t=1818
+fu dan 	復旦	c=0 d=2.74654e-05 t=1818
+fu dan shi yan 	復旦實驗	c=1 d=0.00027603 t=1818
+fu jian 	附件	c=2 d=0.224066 t=1818
+fu kuan 	付款	c=1 d=0.0373604 t=1818
+fu li ye 	傅利葉	c=1 d=0.153355 t=1818
+fu te 	伏特	c=1 d=0.00414854 t=1818
+fu wu ceng 	服務層	c=1 d=0.000135032 t=1818
+fu yu 	賦予	c=0 d=0.0927743 t=1818
+fu yu yi yi 	賦予意義	c=1 d=0.932394 t=1818
+fu ze 	負責	c=1 d=0.337902 t=1818
+gai 	改	c=1 d=0.00128757 t=1818
+gai cheng 	改成	c=0 d=0.000111378 t=1818
+gai dong 	改動	c=1 d=0.0315473 t=1818
+gai lan 	概覽	c=1 d=0.000171659 t=1818
+gai le 	改了	c=0 d=0.000218756 t=1818
+gan huo 	幹活	c=1 d=0.239309 t=1818
+gan tan ci 	感嘆詞	c=1 d=0.00123091 t=1818
+gan xie 	感謝	c=0 d=0.0603506 t=1818
+gan xie da jia de 	感謝大家的	c=1 d=0.606531 t=1818
+gang 	剛	c=2 d=0.00148202 t=1818
+gang cai 	剛纔	c=1 d=0.13068 t=1818
+gang gang 	剛剛	c=0 d=0.000355287 t=1818
+gang gang lu de 	剛剛錄的	c=1 d=0.00357068 t=1818
+gao ding 	搞定	c=2 d=0.387665 t=1818
+gao ge 	搞個	c=1 d=0.118837 t=1818
+gao qiao 	高橋	c=1 d=0.402524 t=1818
+ge 	個	c=3 d=0.98955 t=1818
+ge 	各	c=1 d=0.000370744 t=1818
+ge li 	隔離	c=1 d=0.600496 t=1818
+ge zi 	各自	c=2 d=0.952805 t=1818
+ge zi tuan dui 	各自團隊	c=1 d=0.449329 t=1818
+gei 	給	c=3 d=0.480125 t=1818
+gei ni 	給你	c=1 d=0.14334 t=1818
+gei nin 	給您	c=2 d=0.15376 t=1818
+gei wo 	給我	c=2 d=0.023028 t=1818
+geng 	更	c=0 d=7.92752e-05 t=1818
+geng gai 	更改	c=1 d=0.0492917 t=1818
+geng jia 	更加	c=0 d=0.000123708 t=1818
+geng jia jin mi 	更加緊密	c=1 d=0.00124328 t=1818
+gong bao 	宮保	c=1 d=0.000185956 t=1818
+gong cheng shi 	工程師	c=1 d=0.00344787 t=1818
+gong ju 	工具	c=2 d=0.233162 t=1818
+gong neng 	功能	c=1 d=0.11475 t=1818
+gong si 	公司	c=3 d=1.02944 t=1818
+gong you 	公有	c=0 d=1.15067e-05 t=1818
+gong you 	共有	c=1 d=0.618783 t=1818
+gong you yun 	公有雲	c=1 d=0.000115643 t=1818
+gong zuo 	工作	c=1 d=0.078627 t=1818
+gong zuo de shi qing 	工作的事情	c=1 d=0.0668703 t=1818
+gong zuo ma 	工作嗎	c=1 d=0.0125881 t=1818
+gou tong 	溝通	c=0 d=0.000220948 t=1818
+gou tong hao 	溝通好	c=1 d=0.00222055 t=1818
+gou zhi 	購置	c=1 d=0.000133688 t=1818
+gu ji 	估計	c=0 d=1.64928e-05 t=1818
+gu ji yi ge 	估計一個	c=1 d=0.000165755 t=1818
+gu jian 	固件	c=1 d=0.00276698 t=1818
+gu li 	鼓勵	c=2 d=0.545378 t=1818
+gu li ni qu 	鼓勵你去	c=1 d=0.373439 t=1818
+guan li 	管理	c=1 d=0.000125903 t=1818
+guan wang 	官網	c=1 d=0.290835 t=1818
+guan yu 	慣於	c=1 d=0.704688 t=1818
+guan yu 	關於	c=1 d=0.70822 t=1818
+gui 	歸	c=1 d=0.0293049 t=1818
+gui fan 	規範	c=1 d=0.0204453 t=1818
+guo cheng 	過程	c=1 d=0.0169075 t=1818
+guo ji shang 	國際上	c=1 d=0.209088 t=1818
+guo qing 	國慶	c=1 d=0.458406 t=1818
+guo qu 	過去	c=0 d=0.00150707 t=1818
+guo qu na 	過去拿	c=1 d=0.0151463 t=1818
+ha 	哈	c=2 d=0.0724684 t=1818
+hai 	還	c=0 d=0.0307481 t=1818
+hai bu tai qing chu 	還不太清楚	c=1 d=0.000232877 t=1818
+hai bu xu yao 	還不需要	c=1 d=0.26982 t=1818
+hai mei 	還沒	c=0 d=2.44817e-05 t=1818
+hai shang xue 	還上學	c=1 d=0.0389686 t=1818
+hai shi 	還是	c=3 d=0.265206 t=1818
+hai shi yi lou 	還是一樓	c=1 d=0.802519 t=1818
+hai zi 	孩子	c=1 d=0.837728 t=1818
+han 	喊	c=0 d=9.58635e-05 t=1818
+han 	韓	c=0 d=0.000891518 t=1818
+han guo 	喊過	c=0 d=0.000522135 t=1818
+han guo le 	喊過了	c=1 d=0.00524752 t=1818
+han kou ling 	喊口令	c=0 d=0.000530026 t=1818
+han kou ling zhi qian 	喊口令之前	c=1 d=0.00532682 t=1818
+han si qi 	韓思齊	c=7 d=0.297543 t=1818
+han wo yi sheng 	喊我一聲	c=1 d=0.00096344 t=1818
+hao 	好	c=2 d=0.0872159 t=1818
+hao 	號	c=2 d=1.06035 t=1818
+hao de 	好的	c=4 d=0.0992028 t=1818
+hao le 	好了	c=1 d=0.767206 t=1818
+hao xiang 	好像	c=1 d=0.0505248 t=1818
+hao xiang bu xing 	好像不行	c=1 d=0.494109 t=1818
+hao xie 	好些	c=1 d=0.122456 t=1818
+he 	和	c=26 d=2.01525 t=1818
+he 	鶴	c=0 d=2.52273e-05 t=1818
+he bing 	合併	c=1 d=0.0244775 t=1818
+he li 	合力	c=0 d=1.59256e-05 t=1818
+he li cha che 	合力叉車	c=2 d=0.00032091 t=1818
+he nan 	河南	c=0 d=0.0280832 t=1818
+he ni men 	和你們	c=1 d=0.000542133 t=1818
+he shi 	合適	c=0 d=1.9258e-05 t=1818
+he ta 	和他	c=1 d=0.00194013 t=1818
+he wo 	和我	c=1 d=0.244143 t=1818
+he wo de 	和我的	c=1 d=0.00767337 t=1818
+he zuo 	合作	c=2 d=0.000526743 t=1818
+hong xia 	紅霞	c=0 d=4.68957e-05 t=1818
+hou 	後	c=0 d=0.000186536 t=1818
+hou duan 	後端	c=1 d=0.000126534 t=1818
+hou lai 	後來	c=0 d=0.0145148 t=1818
+hou tai 	後臺	c=1 d=0.000464291 t=1818
+hou xuan ren 	候選人	c=1 d=0.00222978 t=1818
+hou xuan ren ma 	候選人嗎	c=1 d=0.00191125 t=1818
+hu du 	弧度	c=1 d=0.179066 t=1818
+hu lian 	互聯	c=1 d=0.0190631 t=1818
+hua 	話	c=2 d=0.0159771 t=1818
+hua ju 	話劇	c=0 d=2.08619e-05 t=1818
+hua ju ju ben 	話劇劇本	c=1 d=0.000209665 t=1818
+hua tuo 	華佗	c=1 d=0.0239649 t=1818
+hua tuo hua tuo 	華佗華佗	c=1 d=0.0237541 t=1818
+huai yi 	懷疑	c=1 d=0.00562801 t=1818
+huan cheng 	幻城	c=1 d=0.286505 t=1818
+huan ge 	換個	c=0 d=0.000927901 t=1818
+huan ge ban zi 	換個板子	c=1 d=0.00932553 t=1818
+huan guo 	換過	c=0 d=0.000472447 t=1818
+huan guo le 	換過了	c=2 d=0.0164267 t=1818
+huan jing 	環境	c=2 d=0.000859968 t=1818
+huan yi ge 	換一個	c=1 d=0.00915679 t=1818
+huan yi ge huo 	換一個貨	c=1 d=0.00806679 t=1818
+huang se 	黃色	c=1 d=0.0186856 t=1818
+hui 	回	c=1 d=0.189191 t=1818
+hui 	會	c=4 d=0.078512 t=1818
+hui 	輝	c=1 d=0.818731 t=1818
+hui bu hui 	會不會	c=1 d=0.00419023 t=1818
+hui bu shu zai 	會部署在	c=1 d=0.000115067 t=1818
+hui le 	回了	c=1 d=0.0977834 t=1818
+hui qu 	回去	c=0 d=0.000292342 t=1818
+hui shou 	揮手	c=1 d=0.024234 t=1818
+hui tou 	回頭	c=0 d=0.050409 t=1818
+hui xin 	回信	c=0 d=0.00773047 t=1818
+hui xin li mian 	回信裏面	c=1 d=0.0776922 t=1818
+hui yi 	會議	c=2 d=0.544983 t=1818
+hui yi shi 	會議室	c=1 d=0.0023461 t=1818
+huo 	貨	c=0 d=0.00157384 t=1818
+huo dong 	活動	c=0 d=0.0418952 t=1818
+huo dong ping tai 	活動平臺	c=1 d=0.421052 t=1818
+huo zhe 	或者	c=3 d=0.682293 t=1818
+ji 	姬	c=1 d=0.814647 t=1818
+ji 	機	c=1 d=0.000978001 t=1818
+ji ben 	基本	c=0 d=0.0104874 t=1818
+ji ben shang 	基本上	c=1 d=0.00117675 t=1818
+ji cheng 	集成	c=1 d=0.0001441 t=1818
+ji ge 	幾個	c=0 d=0.000139481 t=1818
+ji hua 	計畫	c=1 d=0.0444105 t=1818
+ji hua wai 	計劃外	c=1 d=0.0968105 t=1818
+ji hui 	機會	c=0 d=0.000247875 t=1818
+ji ji can jia 	積極參加	c=1 d=0.366045 t=1818
+ji qi 	機器	c=0 d=6.55574e-05 t=1818
+ji qi shang 	機器上	c=1 d=0.00065886 t=1818
+ji shu 	技術	c=5 d=0.00184256 t=1818
+ji suan 	計算	c=1 d=0.588605 t=1818
+ji suan ji 	計算機	c=2 d=0.756754 t=1818
+ji tian 	幾天	c=0 d=0.0135769 t=1818
+ji tian jia 	幾天假	c=1 d=0.0689068 t=1818
+ji xu 	繼續	c=2 d=0.657559 t=1818
+ji yi 	記憶	c=0 d=0.0918512 t=1818
+jia 	假	c=1 d=0.0747373 t=1818
+jia 	加	c=0 d=0.00164459 t=1818
+jia bu shang 	加不上	c=1 d=0.0104621 t=1818
+jia ding 	假定	c=1 d=0.000149981 t=1818
+jia gou 	架構	c=1 d=0.106992 t=1818
+jia kuai 	加快	c=0 d=0.0965605 t=1818
+jia kuai su du 	加快速度	c=1 d=0.970446 t=1818
+jia le yi ge 	加了一個	c=1 d=0.00606634 t=1818
+jia nian hua 	嘉年華	c=4 d=0.225239 t=1818
+jia shen 	加深	c=1 d=0.000411789 t=1818
+jia yong 	家用	c=4 d=0.170322 t=1818
+jia yong xiao du xiang 	家用消毒箱	c=2 d=0.107634 t=1818
+jia you 	加油	c=1 d=0.0735345 t=1818
+jian dan 	簡單	c=1 d=0.000850233 t=1818
+jian jie 	簡介	c=1 d=0.329559 t=1818
+jian rong 	兼容	c=0 d=0.000267181 t=1818
+jian yi 	建議	c=1 d=0.138177 t=1818
+jiang 	講	c=1 d=0.245367 t=1818
+jiang lai 	將來	c=0 d=0.000111936 t=1818
+jiao ben 	腳本	c=4 d=0.00360917 t=1818
+jiao cheng 	教程	c=0 d=0.000400585 t=1818
+jiao cheng li mian 	教程裏面	c=1 d=0.00402593 t=1818
+jiao du 	角度	c=2 d=0.180104 t=1818
+jie chu 	接觸	c=0 d=0.00159229 t=1818
+jie fu 	姐夫	c=1 d=0.410656 t=1818
+jie gou 	結構	c=1 d=0.955997 t=1818
+jie gou tu 	結構圖	c=0 d=0.0018043 t=1818
+jie jue 	解決	c=1 d=0.000728737 t=1818
+jie jue ban fa 	解決辦法	c=1 d=0.0263839 t=1818
+jie jue fang an 	解決方案	c=2 d=0.0333949 t=1818
+jie jue wen ti 	解決問題	c=1 d=0.00179994 t=1818
+jie jue yi 	解決一	c=1 d=0.00346515 t=1818
+jie mian 	介面	c=1 d=0.000319102 t=1818
+jie shao 	介紹	c=7 d=0.752591 t=1818
+jie tong 	接通	c=0 d=0.000631391 t=1818
+jie tong dian yuan 	接通電源	c=1 d=0.00634556 t=1818
+jie tu 	截圖	c=2 d=0.687757 t=1818
+jie wo 	借我	c=1 d=0.0131019 t=1818
+jie xia lai 	接下來	c=2 d=0.394581 t=1818
+jie xian 	接線	c=1 d=0.0195457 t=1818
+jie zhi shi jian 	截止時間	c=1 d=0.349938 t=1818
+jin liang 	儘量	c=1 d=0.273912 t=1818
+jin mi 	緊密	c=0 d=0.000123708 t=1818
+jin tian 	今天	c=7 d=0.305651 t=1818
+jin tian zheng ge xia wu dou yao 	今天整個下午都要	c=1 d=0.238115 t=1818
+jin xing 	進行	c=2 d=0.00135827 t=1818
+jing li 	經理	c=2 d=0.00204767 t=1818
+jing sai 	競賽	c=1 d=0.424578 t=1818
+jing xi 	精細	c=0 d=0.0937067 t=1818
+jing xi 	驚喜	c=1 d=0.0944767 t=1818
+jing xi bian ma 	精細編碼	c=1 d=0.941765 t=1818
+jing xi bian ma 	驚喜編碼	c=1 d=0.937067 t=1818
+jiu 	就	c=2 d=0.212412 t=1818
+jiu bian cheng 	就變成	c=1 d=0.054204 t=1818
+jiu hao 	就好	c=1 d=0.000845993 t=1818
+jiu hao le 	就好了	c=3 d=0.965672 t=1818
+jiu ke yi le 	就可以了	c=1 d=0.000197455 t=1818
+jiu xian 	就先	c=0 d=0.000169512 t=1818
+jiu xian zuo wan 	就先做完	c=1 d=0.00170362 t=1818
+jiu xing 	就行	c=1 d=0.748264 t=1818
+jiu yong 	就用	c=1 d=0.0106734 t=1818
+jiu zhe liang tian 	就這兩天	c=1 d=0.0110536 t=1818
+jiu zhe yang ba 	就這樣吧	c=1 d=0.0365162 t=1818
+jiu zhe yang le ha 	就這樣了哈	c=1 d=0.034562 t=1818
+ju ben 	劇本	c=2 d=0.000484526 t=1818
+ju lie 	劇烈	c=1 d=0.000325548 t=1818
+ju ti 	具體	c=2 d=0.341441 t=1818
+ju zhen 	矩陣	c=2 d=1.18317 t=1818
+jue ding le 	決定了	c=1 d=0.164474 t=1818
+jue se 	角色	c=1 d=0.00140452 t=1818
+kai fa 	開發	c=1 d=0.00274299 t=1818
+kai hui 	開會	c=3 d=0.175398 t=1818
+kai men 	開門	c=1 d=0.557886 t=1818
+kai men ma 	開門嗎	c=1 d=0.540641 t=1818
+kai shi 	開始	c=0 d=0.00237541 t=1818
+kai shi xiao du 	開始消毒	c=1 d=0.0238732 t=1818
+kai xin 	開心	c=1 d=0.0156076 t=1818
+kan 	看	c=1 d=0.000191619 t=1818
+kan chu 	看出	c=0 d=0.000396599 t=1818
+kan dao 	看到	c=2 d=0.132521 t=1818
+kan fa 	看法	c=0 d=7.20907e-05 t=1818
+kan kan 	看看	c=3 d=0.0398155 t=1818
+kan kan ta ben ren de tai du 	看看他本人的態度	c=1 d=0.00195963 t=1818
+kan kan xie yi 	看看協議	c=1 d=0.0309618 t=1818
+kao lv 	考慮	c=0 d=2.38772e-05 t=1818
+kao lv san ge ren 	考慮三個人	c=1 d=0.000239969 t=1818
+ke 	可	c=0 d=0.000375375 t=1818
+ke bu ke neng 	可不可能	c=1 d=0.00377257 t=1818
+ke da 	科大	c=2 d=0.000231902 t=1818
+ke da xun fei 	科大訊飛	c=1 d=0.000315251 t=1818
+ke da xun fei he zuo de 	科大訊飛合作的	c=1 d=0.00022263 t=1818
+ke hu 	客戶	c=1 d=0.000402123 t=1818
+ke hu duan 	客戶端	c=2 d=0.119562 t=1818
+ke ji 	科技	c=1 d=0.422669 t=1818
+ke ji jing sai 	科技競賽	c=1 d=0.418952 t=1818
+ke neng 	可能	c=5 d=0.595837 t=1818
+ke neng de 	可能的	c=1 d=0.367879 t=1818
+ke neng xing 	可能性	c=1 d=0.26054 t=1818
+ke yi 	可以	c=4 d=0.642676 t=1818
+ke yi ba 	可以吧	c=1 d=0.00416933 t=1818
+ke yi de 	可以的	c=1 d=0.00226541 t=1818
+ke yi ma 	可以嗎	c=2 d=0.0684995 t=1818
+ke yi qu xiao 	可以取消	c=1 d=0.565525 t=1818
+ke yi you 	可以有	c=1 d=0.265803 t=1818
+kong bai 	空白	c=0 d=0.000158052 t=1818
+kong bai de 	空白的	c=1 d=0.00158844 t=1818
+kong de 	空的	c=1 d=0.0515605 t=1818
+kou 	口	c=1 d=0.00782838 t=1818
+kou ling 	口令	c=1 d=0.0236356 t=1818
+kou tou 	口頭	c=0 d=0.016696 t=1818
+kou tou ti xing 	口頭提醒	c=1 d=0.167797 t=1818
+kuai di 	快遞	c=3 d=0.135264 t=1818
+kuai su 	快速	c=1 d=0.000854495 t=1818
+kuan kuan 	寬寬	c=1 d=0.0742736 t=1818
+kun nan 	困難	c=0 d=1.83188e-05 t=1818
+kuo da 	擴大	c=0 d=0.000245409 t=1818
+kuo da ying xiang 	擴大影響	c=1 d=0.00246639 t=1818
+kuo zhan ban 	擴展板	c=7 d=0.0359359 t=1818
+la 	啦	c=1 d=0.38868 t=1818
+lai 	來	c=1 d=0.146164 t=1818
+lai bu ji 	來不及	c=0 d=0.00241315 t=1818
+lai bu ji le 	來不及了	c=1 d=0.0138427 t=1818
+lai gong si 	來公司	c=1 d=0.000898306 t=1818
+lai le 	來了	c=1 d=0.00286554 t=1818
+lai yi xia 	來一下	c=2 d=0.00473942 t=1818
+lai zhi xing 	來執行	c=1 d=0.00052611 t=1818
+lai zu zhi 	來組織	c=1 d=0.302704 t=1818
+lan se 	藍色	c=0 d=8.04733e-05 t=1818
+lan se wen zi biao shi 	藍色文字標識	c=1 d=0.000808767 t=1818
+lan ya 	藍牙	c=1 d=0.021068 t=1818
+lao po 	老婆	c=0 d=0.0141979 t=1818
+lao po hai zi 	老婆孩子	c=1 d=0.0665368 t=1818
+lao shi 	老師	c=1 d=0.0190736 t=1818
+le 	了	c=10 d=0.393809 t=1818
+le gao 	樂高	c=5 d=3.51168 t=1818
+le ma 	了嗎	c=0 d=0.00773608 t=1818
+li hui 	例會	c=1 d=0.135335 t=1818
+li jie 	理解	c=0 d=0.000299743 t=1818
+li jie ba 	理解吧	c=1 d=0.00301245 t=1818
+li mian 	裏面	c=2 d=0.481587 t=1818
+li yong 	利用	c=1 d=0.0314188 t=1818
+lia 	倆	c=1 d=0.000934966 t=1818
+lian bu shang 	連不上	c=1 d=0.00941925 t=1818
+lian he 	聯合	c=1 d=0.017953 t=1818
+lian jie 	連接	c=0 d=0.0970446 t=1818
+lian jie 	鏈結	c=2 d=0.0572014 t=1818
+lian xi 	聯繫	c=1 d=0.000879447 t=1818
+lian xian 	聯線	c=1 d=0.00752142 t=1818
+liang 	亮	c=0 d=0.000477195 t=1818
+liang 	良	c=1 d=0.000283018 t=1818
+liang deng 	亮燈	c=2 d=0.0263433 t=1818
+liang dian 	兩點	c=1 d=0.733447 t=1818
+liang tian 	兩天	c=2 d=1.0548 t=1818
+liao hui 	聊會	c=1 d=0.250324 t=1818
+liao jie 	瞭解	c=1 d=0.000409735 t=1818
+liao liao 	聊聊	c=2 d=0.0039391 t=1818
+lie 	列	c=0 d=1.45549e-05 t=1818
+lie biao 	列表	c=0 d=0.0634448 t=1818
+lie biao ru xia 	列表如下	c=1 d=0.637628 t=1818
+lie yi ge qing dan 	列一個清單	c=1 d=0.000146278 t=1818
+lin shi 	臨時	c=1 d=0.0267827 t=1818
+ling wai 	另外	c=1 d=0.00147367 t=1818
+ling yu 	領域	c=0 d=0.0941765 t=1818
+ling yu dan ci yu shu yu 	領域單詞與術語	c=1 d=0.946485 t=1818
+liu 	流	c=0 d=1.84106e-05 t=1818
+liu lan qi 	瀏覽器	c=1 d=0.201897 t=1818
+liu xing 	流行	c=1 d=0.211189 t=1818
+long feng 	龍鳳	c=1 d=0.398519 t=1818
+lou lian 	露臉	c=0 d=0.000247875 t=1818
+lou lian de ji hui 	露臉的機會	c=1 d=0.00249118 t=1818
+lu de 	錄的	c=0 d=0.000355287 t=1818
+lu shang 	路上	c=1 d=0.0285814 t=1818
+lu yin 	錄音	c=1 d=0.116484 t=1818
+lu zhi 	錄製	c=1 d=0.00214418 t=1818
+lun yi 	輪椅	c=1 d=0.287941 t=1818
+ma 	嗎	c=14 d=0.761482 t=1818
+ma 	嘛	c=0 d=2.59956e-05 t=1818
+ma fan 	麻煩	c=1 d=0.00484451 t=1818
+ma fan ni 	麻煩你	c=2 d=0.557245 t=1818
+ma fan nin le 	麻煩您了	c=1 d=0.0145524 t=1818
+ma nong 	碼農	c=1 d=0.394554 t=1818
+ma shang 	馬上	c=0 d=7.57869e-05 t=1818
+ma shang you ge hui 	馬上有個會	c=1 d=0.000761668 t=1818
+mai 	買	c=1 d=0.00101244 t=1818
+mai de 	買的	c=1 d=0.00329615 t=1818
+mei 	沒	c=0 d=0.00078152 t=1818
+mei fan ying 	沒反應	c=3 d=0.0166503 t=1818
+mei ge 	每個	c=1 d=0.263158 t=1818
+mei ge ren 	每個人	c=2 d=0.81572 t=1818
+mei guan xi 	沒關係	c=1 d=0.0101529 t=1818
+mei qu bie 	沒區別	c=1 d=0.00763509 t=1818
+mei sha yong ba 	沒啥用吧	c=1 d=0.169483 t=1818
+mei wen ti 	沒問題	c=1 d=0.00012465 t=1818
+mei yi jian 	沒意見	c=0 d=0.000191125 t=1818
+mei yong de 	沒用的	c=1 d=0.0117371 t=1818
+mei you 	沒有	c=4 d=0.566339 t=1818
+mei you fa cuo 	沒有發錯	c=1 d=0.000219315 t=1818
+mei you fan 	沒有反	c=1 d=0.0049667 t=1818
+mei you fan ying 	沒有反應	c=1 d=0.00306549 t=1818
+mei you tong bu 	沒有同步	c=1 d=0.00151098 t=1818
+meng 	猛	c=1 d=0.0837432 t=1818
+ming bai le 	明白了	c=2 d=0.0413499 t=1818
+ming dan 	名單	c=1 d=0.000500451 t=1818
+ming ling hang 	命令行	c=1 d=0.913931 t=1818
+ming que 	明確	c=1 d=0.000647672 t=1818
+ming que yi xia 	明確一下	c=1 d=0.000547581 t=1818
+ming tian 	明天	c=4 d=0.103739 t=1818
+ming zi 	名字	c=1 d=0.00110822 t=1818
+mo kuai 	模塊	c=6 d=0.0721684 t=1818
+mo shi 	模式	c=1 d=0.965605 t=1818
+mu di 	目的	c=1 d=0.000380129 t=1818
+mu qian 	目前	c=4 d=0.638694 t=1818
+mu qian hai mei you que ding 	目前還沒有確定	c=1 d=0.000246044 t=1818
+na 	拿	c=0 d=0.00150707 t=1818
+na 	那	c=3 d=0.680597 t=1818
+na dao 	拿到	c=2 d=0.0352359 t=1818
+na dong xi 	拿東西	c=0 d=0.0028297 t=1818
+na ge 	哪個	c=1 d=0.00386887 t=1818
+na ge 	那個	c=3 d=0.026416 t=1818
+na ge xian 	哪個線	c=1 d=0.00491728 t=1818
+na jiu 	那就	c=1 d=0.0478936 t=1818
+na jiu bie xiu le 	那就別修了	c=2 d=0.0645872 t=1818
+na jiu ming tian 	那就明天	c=1 d=0.173774 t=1818
+na jiu qu xiao 	那就取消	c=1 d=0.99005 t=1818
+na ke neng bu xing 	那可能不行	c=1 d=0.0101022 t=1818
+na li 	那裏	c=1 d=0.0148065 t=1818
+na ni jiu 	那你就	c=1 d=0.0397558 t=1818
+na wo men 	那我們	c=1 d=0.0109985 t=1818
+na wo ming tian 	那我明天	c=1 d=0.00196945 t=1818
+na xie 	哪些	c=0 d=1.44823e-05 t=1818
+na xie 	那些	c=1 d=0.00141589 t=1818
+nan 	難	c=0 d=0.000292342 t=1818
+nei rong 	內容	c=1 d=0.000405624 t=1818
+nei rong he shi jian 	內容和時間	c=1 d=0.00042433 t=1818
+neng 	能	c=5 d=0.162919 t=1818
+neng bu neng 	能不能	c=2 d=0.0299952 t=1818
+neng gou 	能夠	c=3 d=0.179596 t=1818
+neng kan chu yuan yin ma 	能看出原因嗎	c=1 d=0.00398587 t=1818
+neng li 	能力	c=0 d=1.33688e-05 t=1818
+neng li ceng 	能力層	c=1 d=0.000134358 t=1818
+ni 	你	c=5 d=0.0718696 t=1818
+ni an xin 	你安心	c=1 d=0.0658748 t=1818
+ni bu yong dan xin 	你不用擔心	c=1 d=0.0713613 t=1818
+ni chu lai na dong xi 	你出來拿東西	c=1 d=0.0284388 t=1818
+ni de 	你的	c=3 d=0.0155281 t=1818
+ni fa 	你發	c=1 d=0.677057 t=1818
+ni gei 	你給	c=1 d=0.0769192 t=1818
+ni hao 	你好	c=2 d=0.0591114 t=1818
+ni ke yi 	你可以	c=1 d=0.000149233 t=1818
+ni lai 	你來	c=1 d=0.00018046 t=1818
+ni lao po 	你老婆	c=1 d=0.0761538 t=1818
+ni men 	你們	c=8 d=0.695418 t=1818
+ni men bu shi 	你們不是	c=1 d=0.00615802 t=1818
+ni men de kan fa 	你們的看法	c=1 d=0.000724521 t=1818
+ni men tuan dui 	你們團隊	c=1 d=0.000242381 t=1818
+ni na li you ma 	你那裏有嗎	c=1 d=0.0614212 t=1818
+ni shang ci 	你上次	c=1 d=0.00162866 t=1818
+ni shou dao 	你收到	c=1 d=0.00137404 t=1818
+ni tong yi 	你同意	c=1 d=0.00188279 t=1818
+ni yao shi 	你要是	c=0 d=0.000191125 t=1818
+ni yao shi fang bian 	你要是方便	c=1 d=0.000889368 t=1818
+ni yao shi mei yi jian 	你要是沒意見	c=1 d=0.00192083 t=1818
+ni yi jing 	你已經	c=1 d=0.000150733 t=1818
+ni you mei you 	你有沒有	c=1 d=0.00499159 t=1818
+ni zai 	你在	c=2 d=0.832353 t=1818
+ni zhua jin shi jian 	你抓緊時間	c=1 d=0.00145173 t=1818
+nin 	您	c=0 d=0.00889361 t=1818
+nin de 	您的	c=1 d=0.0930145 t=1818
+nin jin tian 	您今天	c=1 d=0.013912 t=1818
+nin kan 	您看	c=0 d=0.00426384 t=1818
+nin kan kan 	您看看	c=1 d=0.025223 t=1818
+nin kan zhe yang tian xie 	您看這樣填寫	c=1 d=0.0428521 t=1818
+nin ming tian 	您明天	c=1 d=0.0142642 t=1818
+nin na ge 	您那個	c=1 d=0.0127784 t=1818
+o 	哦	c=2 d=0.0157898 t=1818
+pai 	派	c=1 d=0.000518277 t=1818
+pei 	陪	c=1 d=0.066205 t=1818
+pei he 	配合	c=1 d=0.609571 t=1818
+pei xun 	培訓	c=2 d=0.00314227 t=1818
+pei yang 	培養	c=1 d=0.000792752 t=1818
+pei zhi 	配製	c=1 d=0.000642592 t=1818
+pi 	批	c=0 d=0.0557106 t=1818
+pi liang 	批量	c=0 d=0.0110251 t=1818
+pi liang dao ru 	批量導入	c=1 d=0.110803 t=1818
+pi yi xia 	批一下	c=1 d=0.559898 t=1818
+pin 	拼	c=1 d=0.878095 t=1818
+pin yin 	拼音	c=1 d=0.000186888 t=1818
+ping tai 	平臺	c=0 d=0.0418952 t=1818
+ping xuan 	評選	c=1 d=0.634448 t=1818
+qi dong 	啓動	c=2 d=0.0308175 t=1818
+qi shi 	其實	c=1 d=0.0510474 t=1818
+qi ta 	其他	c=3 d=0.00874378 t=1818
+qi ta de 	其他的	c=1 d=0.0270518 t=1818
+qi ta ren 	其他人	c=0 d=2.42381e-05 t=1818
+qi ye 	企業	c=1 d=0.00109605 t=1818
+qi ye wei xin 	企業微信	c=1 d=0.00098783 t=1818
+qian 	簽	c=1 d=0.000118571 t=1818
+qian gua 	牽掛	c=0 d=0.00294518 t=1818
+qian he tong 	簽合同	c=1 d=0.000116806 t=1818
+qian tian 	前天	c=1 d=0.00463092 t=1818
+qian zai 	潛在	c=0 d=1.62473e-05 t=1818
+qian zai ke hu 	潛在客戶	c=1 d=0.000163287 t=1818
+qian zi 	簽字	c=0 d=0.00761538 t=1818
+qian zi sheng ming shu 	簽字聲明書	c=1 d=0.0765355 t=1818
+qiang zhi 	強制	c=0 d=0.0519442 t=1818
+qiang zhi xiu jia ke yi 	強制休假可以	c=1 d=0.522046 t=1818
+qin qin 	親親	c=1 d=0.028297 t=1818
+qing 	請	c=13 d=1.84388 t=1818
+qing bang wo 	請幫我	c=1 d=0.000187825 t=1818
+qing chu 	清楚	c=0 d=0.0271173 t=1818
+qing da jia 	請大家	c=1 d=0.364219 t=1818
+qing dan 	清單	c=1 d=0.000635047 t=1818
+qing dao 	請到	c=1 d=0.0023344 t=1818
+qing gao zhi 	請告知	c=1 d=0.000428594 t=1818
+qing ji tian 	請幾天	c=1 d=0.0675424 t=1818
+qing jiao 	請教	c=0 d=0.000367942 t=1818
+qing jiao ge wen ti 	請教個問題	c=1 d=0.00369786 t=1818
+qing jin liang 	請儘量	c=1 d=0.000147748 t=1818
+qing kuang 	情況	c=3 d=0.33812 t=1818
+qing lian xi 	請聯繫	c=0 d=0.0149569 t=1818
+qing lian xi wo 	請聯繫我	c=1 d=0.150318 t=1818
+qing ni 	請你	c=1 d=0.00115345 t=1818
+qing shao nian 	青少年	c=1 d=0.379083 t=1818
+qing wen 	請問	c=3 d=0.0197943 t=1818
+qing wen nin 	請問您	c=1 d=0.0086517 t=1818
+qing yi 	請以	c=1 d=0.146607 t=1818
+qu 	去	c=0 d=0.0371577 t=1818
+qu 	取	c=0 d=0.00141223 t=1818
+qu ba 	去吧	c=0 d=0.00108347 t=1818
+qu bie 	區別	c=0 d=0.000759701 t=1818
+qu diao 	去掉	c=0 d=8.12821e-05 t=1818
+qu dong 	驅動	c=2 d=0.0406888 t=1818
+qu xian 	曲線	c=0 d=0.0151072 t=1818
+qu xiao 	取消	c=1 d=0.679443 t=1818
+qu xue xiao 	去學校	c=1 d=0.0143357 t=1818
+qu zhao ni 	去找你	c=2 d=0.765448 t=1818
+que ding 	確定	c=0 d=6.69147e-05 t=1818
+que ding hou 	確定後	c=1 d=0.000426457 t=1818
+que kou 	缺口	c=1 d=0.251579 t=1818
+que ren 	確認	c=5 d=0.173115 t=1818
+que ren yi xia 	確認一下	c=1 d=0.511709 t=1818
+ran hou 	然後	c=1 d=0.00215492 t=1818
+rang chu lai 	讓出來	c=0 d=0.000290884 t=1818
+rang chu lai rong yi 	讓出來容易	c=1 d=0.00292342 t=1818
+rang ta men 	讓他們	c=1 d=0.00173804 t=1818
+rang wo 	讓我	c=1 d=0.00733572 t=1818
+ren 	人	c=1 d=0.84268 t=1818
+ren gong zhi neng 	人工智能	c=3 d=0.0819702 t=1818
+ren he 	任何	c=1 d=0.00554422 t=1818
+ren wu 	任務	c=0 d=1.44823e-05 t=1818
+ren xing hua 	人性化	c=1 d=0.00031751 t=1818
+ren yuan 	人員	c=3 d=0.67707 t=1818
+ri 	日	c=1 d=0.353455 t=1818
+ri yong 	日用	c=0 d=0.00221482 t=1818
+ri yong wu pin 	日用物品	c=1 d=0.0222592 t=1818
+rong lu 	融爐	c=1 d=0.000263884 t=1818
+rong lu 	鎔爐	c=1 d=0.000265207 t=1818
+rong yao 	榮耀	c=1 d=0.414783 t=1818
+rong yi 	容易	c=0 d=0.000290884 t=1818
+ru guo 	如果	c=4 d=0.687045 t=1818
+ru guo hai shi bu xing 	如果還是不行	c=1 d=0.00786762 t=1818
+ru guo jian rong 	如果兼容	c=1 d=0.0026852 t=1818
+ru guo neng 	如果能	c=0 d=0.000168667 t=1818
+ru guo neng kan dao 	如果能看到	c=1 d=0.00169512 t=1818
+ru guo ta 	如果他	c=1 d=0.162026 t=1818
+ru guo you yi wen 	如果有疑問	c=1 d=0.149569 t=1818
+ru he 	如何	c=0 d=0.000222055 t=1818
+ru he fen gong 	如何分工	c=1 d=0.00223168 t=1818
+ru xia 	如下	c=0 d=0.0634448 t=1818
+ru xuan 	入選	c=2 d=1.31091 t=1818
+ruan jian 	軟件	c=1 d=0.217621 t=1818
+san 	三	c=1 d=0.000754089 t=1818
+san ge ren 	三個人	c=0 d=2.38772e-05 t=1818
+san ming zhi 	三明治	c=1 d=0.000757869 t=1818
+sang 	桑	c=1 d=0.582748 t=1818
+se 	色	c=1 d=0.0187793 t=1818
+shan chu 	刪除	c=0 d=8.29241e-05 t=1818
+shan chu xian 	刪除線	c=1 d=0.000833397 t=1818
+shang 	上	c=3 d=0.18768 t=1818
+shang ban tian 	上半天	c=1 d=0.0395575 t=1818
+shang bao 	上報	c=1 d=0.625002 t=1818
+shang chuan 	上傳	c=1 d=0.00360656 t=1818
+shang ci 	上次	c=2 d=0.00365461 t=1818
+shang feng you jian 	上封郵件	c=1 d=0.12307 t=1818
+shang hai 	上海	c=7 d=1.79602 t=1818
+shang hai shi 	上海市	c=0 d=0.0017249 t=1818
+shang hai shi yang pu qu 	上海市楊浦區	c=1 d=0.0173355 t=1818
+shang liang 	商量	c=0 d=0.000116504 t=1818
+shang liang hao 	商量好	c=1 d=0.000939653 t=1818
+shang liang yi xia 	商量一下	c=2 d=0.0270325 t=1818
+shang mian 	上面	c=2 d=0.000240252 t=1818
+shang qi 	上汽	c=2 d=0.000604058 t=1818
+shang wu 	上午	c=1 d=0.0332068 t=1818
+shang xue 	上學	c=0 d=0.00387742 t=1818
+shao deng 	稍等	c=1 d=0.00364281 t=1818
+shao ke zhan 	少科站	c=1 d=0.416862 t=1818
+she ji 	涉及	c=1 d=0.214381 t=1818
+she ji 	設計	c=1 d=0.215456 t=1818
+she shi 	設施	c=0 d=0.0282239 t=1818
+shen bao 	申報	c=2 d=0.687788 t=1818
+shen me 	什麼	c=1 d=0.00542928 t=1818
+shen pi 	審批	c=1 d=0.0011491 t=1818
+shen pi yi jian 	審批意見	c=1 d=0.00105946 t=1818
+shen qi de 	神奇的	c=0 d=0.00014018 t=1818
+shen qi de su du 	神奇的速度	c=1 d=0.00140882 t=1818
+shen qing 	申請	c=1 d=0.581717 t=1818
+sheng kong 	聲控	c=2 d=0.0235628 t=1818
+sheng ming shu 	聲明書	c=0 d=0.00761538 t=1818
+sheng ri li wu 	生日禮物	c=1 d=0.0340475 t=1818
+shi 	事	c=0 d=0.000238156 t=1818
+shi 	式	c=0 d=0.00159229 t=1818
+shi 	是	c=13 d=1.71692 t=1818
+shi 	時	c=0 d=0.0918512 t=1818
+shi a 	是啊	c=1 d=0.0029528 t=1818
+shi bie 	識別	c=1 d=0.117068 t=1818
+shi bu shi 	是不是	c=4 d=0.181641 t=1818
+shi de 	是的	c=4 d=0.334504 t=1818
+shi duo shao 	是多少	c=1 d=0.0944202 t=1818
+shi fou 	是否	c=1 d=0.00113303 t=1818
+shi fou he shi 	是否合適	c=1 d=0.000193545 t=1818
+shi guo 	試過	c=1 d=0.00490955 t=1818
+shi guo le 	試過了	c=1 d=0.00940934 t=1818
+shi hao de 	是好的	c=1 d=0.00588705 t=1818
+shi hou 	時候	c=1 d=0.00677172 t=1818
+shi jian 	時間	c=3 d=0.881588 t=1818
+shi jian lai bu ji 	時間來不及	c=1 d=0.0104099 t=1818
+shi ni men 	是你們	c=1 d=0.000211772 t=1818
+shi pin 	視頻	c=4 d=0.130751 t=1818
+shi qing 	事情	c=2 d=0.0126766 t=1818
+shi qing ban wan le ma 	事情辦完了嗎	c=1 d=0.0383884 t=1818
+shi shi 	試試	c=1 d=0.19205 t=1818
+shi xian 	實現	c=2 d=0.0319733 t=1818
+shi xian tuan dui 	實現團隊	c=1 d=0.000493001 t=1818
+shi xian xi jie 	實現細節	c=1 d=0.000368894 t=1818
+shi xu yao 	是需要	c=1 d=0.0417941 t=1818
+shi yan 	實驗	c=0 d=2.74654e-05 t=1818
+shi yao 	是要	c=1 d=0.00719046 t=1818
+shi yong 	使用	c=3 d=0.0246009 t=1818
+shi yong ying wen 	是用英文	c=1 d=0.000156885 t=1818
+shou 	受	c=1 d=0.298197 t=1818
+shou dao 	收到	c=3 d=0.874326 t=1818
+shou gong 	手工	c=1 d=0.00193316 t=1818
+shou gong tong bu 	手工同步	c=1 d=0.0018734 t=1818
+shou ji hao 	手機號	c=2 d=0.097622 t=1818
+shou xin 	收信	c=1 d=0.00208081 t=1818
+shou xu 	手續	c=0 d=0.000848038 t=1818
+shu chu 	輸出	c=1 d=0.0188734 t=1818
+shu ju 	數據	c=1 d=1 t=1819
+shu lian 	熟練	c=0 d=1.65755e-05 t=1818
+shu lian de 	熟練的	c=1 d=0.000166586 t=1818
+shu ru 	輸入	c=1 d=0.00105417 t=1818
+shu ru fa 	輸入法	c=1 d=0.000169951 t=1818
+shu ru shu chu she bei 	輸入輸出設備	c=1 d=0.000131698 t=1818
+shu yu 	術語	c=0 d=0.0941765 t=1818
+shu zi 	數字	c=1 d=0.0439369 t=1818
+shu zi hua 	數字化	c=0 d=4.55097e-05 t=1818
+shu zi hua dong shi hui 	數字化董事會	c=1 d=0.000457378 t=1818
+shuang pin 	雙拼	c=1 d=0.980248 t=1818
+shuang yan 	雙眼	c=0 d=7.84864e-05 t=1818
+shui mian 	睡眠	c=1 d=0.00305798 t=1818
+shuo 	說	c=1 d=0.00532229 t=1818
+shuo le yi ju hua 	說了一句話	c=1 d=0.0401553 t=1818
+shuo ming 	說明	c=1 d=0.0466538 t=1818
+shuo qing chu 	說清楚	c=1 d=0.000867409 t=1818
+si 	思	c=1 d=0.384812 t=1818
+si 	斯	c=0 d=0.0151072 t=1818
+si hu 	似乎	c=1 d=0.00594622 t=1818
+si qi 	思齊	c=0 d=0.000891518 t=1818
+si xun huan 	死循環	c=1 d=0.0544757 t=1818
+song guo qu 	送過去	c=0 d=0.00357931 t=1818
+sou ji 	蒐集	c=2 d=0.872199 t=1818
+su du 	速度	c=0 d=0.0967006 t=1818
+sui bian 	隨便	c=0 d=0.0198891 t=1818
+sui bian yong 	隨便用	c=1 d=0.199888 t=1818
+suo xu yao 	所需要	c=1 d=0.000528747 t=1818
+suo yi 	所以	c=2 d=0.483641 t=1818
+suo you 	所有	c=0 d=3.19668e-05 t=1818
+suo you gong zuo 	所有工作	c=1 d=0.00016826 t=1818
+suo you xu yao 	所有需要	c=1 d=0.000153011 t=1818
+ta 	他	c=3 d=0.364564 t=1818
+ta 	她	c=1 d=0.0746459 t=1818
+ta men 	他們	c=3 d=0.00236548 t=1818
+ta zhen neng 	他真能	c=1 d=0.154124 t=1818
+tai ci 	臺詞	c=2 d=0.00244436 t=1818
+tai feng 	颱風	c=0 d=0.00287246 t=1818
+tai min gan 	太敏感	c=0 d=7.8095e-05 t=1818
+tai min gan le 	太敏感了	c=1 d=0.000784864 t=1818
+tao bao 	淘寶	c=1 d=0.847894 t=1818
+tao lun 	討論	c=0 d=0.0471948 t=1818
+tao lun yi xia 	討論一下	c=1 d=0.137381 t=1818
+ti gao 	提高	c=1 d=0.000206543 t=1818
+ti qian 	提前	c=0 d=0.0276651 t=1818
+ti qian yi dian ba 	提前一點吧	c=1 d=0.278037 t=1818
+ti qu 	提取	c=2 d=0.953541 t=1818
+ti qu ma 	提取碼	c=1 d=0.00326335 t=1818
+ti shi 	提示	c=1 d=0.0500366 t=1818
+ti shi wo 	提示我	c=1 d=0.0475963 t=1818
+ti xing 	提醒	c=0 d=0.0499631 t=1818
+ti xing ta 	提醒他	c=1 d=0.17552 t=1818
+tian hao 	填好	c=1 d=0.0415857 t=1818
+tian tian 	恬恬	c=1 d=0.0385808 t=1818
+tian xie 	填寫	c=0 d=0.00426384 t=1818
+tiao shi 	調試	c=1 d=0.0081887 t=1818
+tiao zhan 	挑戰	c=1 d=0.000389752 t=1818
+tiao zhan sai 	挑戰賽	c=1 d=0.0157644 t=1818
+tie jin 	貼近	c=1 d=0.000291637 t=1818
+ting che 	停車	c=3 d=0.367557 t=1818
+ting ke 	停課	c=0 d=0.00391639 t=1818
+ting ting 	聽聽	c=1 d=0.375311 t=1818
+tong 	同	c=1 d=0.00621991 t=1818
+tong bu 	同步	c=4 d=0.00714758 t=1818
+tong fen 	通分	c=1 d=0.000281606 t=1818
+tong guo 	通過	c=2 d=0.0572513 t=1818
+tong guo hou 	通過後	c=1 d=0.000678925 t=1818
+tong shi 	同事	c=3 d=0.072945 t=1818
+tong shi 	同時	c=1 d=0.00367942 t=1818
+tong yi 	同意	c=0 d=0.00018734 t=1818
+tong yi 	統一	c=0 d=0.0196912 t=1818
+tong yi deng lu 	統一登錄	c=1 d=0.197899 t=1818
+tong zhi 	通知	c=0 d=0.00017643 t=1818
+tou zi 	投資	c=1 d=0.000297529 t=1818
+tu 	圖	c=0 d=0.000311976 t=1818
+tu xing xue 	圖形學	c=3 d=0.941415 t=1818
+tuan dui 	團隊	c=2 d=0.350929 t=1818
+tui chu 	退出	c=1 d=0.0488012 t=1818
+tui jian 	推薦	c=1 d=0.00189223 t=1818
+wai mian 	外面	c=1 d=0.0380064 t=1818
+wan cheng 	完成	c=3 d=0.492441 t=1818
+wan cheng hou 	完成後	c=1 d=0.000200439 t=1818
+wan le 	完了	c=0 d=0.000143728 t=1818
+wan zheng 	完整	c=2 d=0.00137899 t=1818
+wang pan 	網盤	c=0 d=0.00561348 t=1818
+wang wang 	旺旺	c=1 d=0.00390694 t=1818
+wei 	爲	c=2 d=0.00142894 t=1818
+wei kong 	爲空	c=1 d=0.0483156 t=1818
+wei le 	爲了	c=0 d=0.00271874 t=1818
+wei le yi hou 	爲了以後	c=1 d=0.0273237 t=1818
+wei li 	威力	c=0 d=0.00288686 t=1818
+wei li bu xing a 	威力不行啊	c=1 d=0.0290133 t=1818
+wei ruan 	微軟	c=1 d=0.722549 t=1818
+wei ruan shuang pin 	微軟雙拼	c=1 d=0.000252273 t=1818
+wei shen me 	爲什麼	c=1 d=0.00166989 t=1818
+wei tuo 	委託	c=1 d=0.299692 t=1818
+wei xin 	微信	c=2 d=0.0086899 t=1818
+wei zhu 	爲主	c=2 d=0.00108905 t=1818
+wei zhun 	爲準	c=2 d=0.276816 t=1818
+wen 	問	c=1 d=0.00163682 t=1818
+wen 	溫	c=2 d=0.0220734 t=1818
+wen ben 	文本	c=0 d=7.96726e-05 t=1818
+wen dang 	文檔	c=1 d=0.0111647 t=1818
+wen jian 	文件	c=1 d=0.701173 t=1818
+wen lao shi 	溫老師	c=5 d=0.184616 t=1818
+wen ti 	問題	c=5 d=0.078277 t=1818
+wen wen 	問問	c=0 d=0.0506617 t=1818
+wen xiao yin 	溫曉寅	c=1 d=0.425283 t=1818
+wen zi 	文字	c=1 d=0.000276943 t=1818
+wo 	我	c=15 d=2.01159 t=1818
+wo an pai 	我安排	c=1 d=0.000539429 t=1818
+wo an zhao 	我按照	c=1 d=0.0464212 t=1818
+wo ba 	我把	c=1 d=0.000476044 t=1818
+wo de 	我的	c=3 d=0.112246 t=1818
+wo de ba 	我的吧	c=1 d=0.790571 t=1818
+wo de wu tai 	我的舞台	c=1 d=0.000251014 t=1818
+wo fa ge shi pin gei ni 	我發個視頻給你	c=1 d=0.00355287 t=1818
+wo gai le ji ge biao ti 	我改了幾個標題	c=1 d=0.0014018 t=1818
+wo gei ni 	我給你	c=0 d=0.00357931 t=1818
+wo gei ni song guo qu 	我給你送過去	c=1 d=0.0359725 t=1818
+wo geng gai le 	我更改了	c=1 d=0.000796726 t=1818
+wo hou lai you bu le yi feng 	我後來又補了一封	c=1 d=0.145876 t=1818
+wo hui 	我會	c=3 d=0.685994 t=1818
+wo hui tou 	我回頭	c=1 d=0.506617 t=1818
+wo hui xiang da jia 	我會向大家	c=1 d=0.316637 t=1818
+wo jiu ji ben zhi dao 	我就基本知道	c=1 d=0.105399 t=1818
+wo ke neng 	我可能	c=1 d=0.00790705 t=1818
+wo li yong 	我利用	c=1 d=0.311923 t=1818
+wo lian xi 	我聯繫	c=1 d=0.00336274 t=1818
+wo ma 	我媽	c=0 d=0.00372538 t=1818
+wo men 	我們	c=9 d=1.81754 t=1818
+wo men zheng ge 	我們整個	c=1 d=0.00200924 t=1818
+wo ming tian 	我明天	c=2 d=0.0439341 t=1818
+wo qu 	我去	c=0 d=0.00141223 t=1818
+wo qu qu yi xia 	我去取一下	c=1 d=0.0141931 t=1818
+wo ren wei 	我認爲	c=1 d=0.000812821 t=1818
+wo shi bu shi 	我是不是	c=1 d=0.22091 t=1818
+wo shi shi 	我試試	c=1 d=0.00653881 t=1818
+wo tong zhi ta 	我通知他	c=1 d=0.00177315 t=1818
+wo xia qu 	我下去	c=0 d=0.02334 t=1818
+wo xia qu zhao ni 	我下去找你	c=1 d=0.23457 t=1818
+wo xian zai 	我現在	c=3 d=0.0506531 t=1818
+wo xie de zui jian dan de cheng xu 	我寫的最簡單的程序	c=1 d=0.00273944 t=1818
+wo you yi ge 	我有一個	c=1 d=0.00456197 t=1818
+wo zai xiang xiang ban fa 	我在想想辦法	c=1 d=0.0102037 t=1818
+wo zhe li 	我這裏	c=3 d=0.0117612 t=1818
+wo zhuan yi fen 	我轉一份	c=1 d=0.0948935 t=1818
+wu fa 	無法	c=0 d=0.00448245 t=1818
+wu fa deng lu 	無法登錄	c=1 d=0.0450492 t=1818
+wu fan 	午飯	c=1 d=0.232236 t=1818
+wu lou 	五樓	c=0 d=0.000283702 t=1818
+wu nian ji 	五年級	c=1 d=0.0620385 t=1818
+wu pin 	物品	c=5 d=0.158032 t=1818
+wu san 	五三	c=0 d=0.00174224 t=1818
+wu san ban 	五三班	c=1 d=0.0175097 t=1818
+wu tai 	舞臺	c=0 d=0.000307331 t=1818
+wu tai jue se 	舞臺角色	c=1 d=0.00308872 t=1818
+wu zhang ai 	無障礙	c=0 d=0.0282239 t=1818
+wu zhang ai she shi 	無障礙設施	c=1 d=0.283654 t=1818
+xi guan 	習慣	c=1 d=0.83527 t=1818
+xi jie 	細節	c=2 d=0.0010693 t=1818
+xi jie gong zuo 	細節工作	c=1 d=0.000534061 t=1818
+xi ju 	戲劇	c=2 d=0.285284 t=1818
+xi tong 	系統	c=1 d=0.000275008 t=1818
+xi tong xian shi 	系統顯示	c=1 d=0.00096827 t=1818
+xia 	下	c=5 d=0.00819296 t=1818
+xia dan 	下單	c=0 d=0.00306538 t=1818
+xia dan ba 	下單吧	c=1 d=0.0308074 t=1818
+xia le 	下了	c=1 d=0.22313 t=1818
+xia wu 	下午	c=0 d=0.0237085 t=1818
+xia wu hai shi 	下午還是	c=1 d=0.000893825 t=1818
+xia wu yi dian ban 	下午一點半	c=1 d=0.000452827 t=1818
+xia yi bu 	下一步	c=1 d=0.640824 t=1818
+xian 	先	c=2 d=0.012599 t=1818
+xian 	線	c=1 d=0.0216865 t=1818
+xian lu tu 	線路圖	c=1 d=0.00311976 t=1818
+xian sheng 	獻聲	c=1 d=0.000958635 t=1818
+xian shi 	顯示	c=0 d=9.6344e-05 t=1818
+xian xia 	線下	c=1 d=0.276651 t=1818
+xian xing dai shu 	線性代數	c=1 d=0.181772 t=1818
+xian yu 	鹹魚	c=1 d=0.0352602 t=1818
+xian zai 	現在	c=4 d=0.899798 t=1818
+xiang 	向	c=0 d=0.0315058 t=1818
+xiang 	想	c=1 d=0.00927901 t=1818
+xiang 	響	c=2 d=0.0116903 t=1818
+xiang guan chan pin 	相關產品	c=1 d=0.000405658 t=1818
+xiang jin 	詳盡	c=1 d=0.000148489 t=1818
+xiang liang 	向量	c=1 d=0.591555 t=1818
+xiang mu 	項目	c=5 d=0.0892676 t=1818
+xiang xi 	詳細	c=0 d=0.0018043 t=1818
+xiang xi jie gou tu 	詳細結構圖	c=2 d=0.0363576 t=1818
+xiang xiang 	想想	c=0 d=0.00101529 t=1818
+xiang yi miao 	響一秒	c=1 d=0.0072265 t=1818
+xiang yi sheng 	響一聲	c=1 d=0.00647375 t=1818
+xiao 	小	c=2 d=0.0213764 t=1818
+xiao du 	消毒	c=2 d=0.0906761 t=1818
+xiao du mo kuai 	消毒模塊	c=1 d=0.0239928 t=1818
+xiao du xiang 	消毒箱	c=3 d=0.105425 t=1818
+xiao he shuang pin 	小鶴雙拼	c=1 d=0.000253537 t=1818
+xiao sheng 	小升	c=0 d=2.73284e-05 t=1818
+xiao sheng chu 	小升初	c=2 d=0.000554856 t=1818
+xiao shou 	銷售	c=1 d=0.00017956 t=1818
+xiao xin 	小心	c=0 d=0.00285814 t=1818
+xiao xue 	小學	c=1 d=0.0640828 t=1818
+xiao ya 	小亞	c=1 d=0.00522135 t=1818
+xie de 	寫的	c=0 d=0.000272578 t=1818
+xie tiao 	協調	c=1 d=0.000581442 t=1818
+xie xie 	謝謝	c=15 d=1.33174 t=1818
+xie yi 	協議	c=0 d=0.00308074 t=1818
+xin hao 	信號	c=2 d=0.0388092 t=1818
+xin ku le 	辛苦了	c=1 d=0.778801 t=1818
+xin xi 	信息	c=4 d=0.465765 t=1818
+xing ma 	行嗎	c=1 d=0.0430669 t=1818
+xing qu 	興趣	c=1 d=0.000253768 t=1818
+xiu 	修	c=0 d=0.00300468 t=1818
+xiu 	秀	c=1 d=0.822835 t=1818
+xiu gai 	修改	c=1 d=0.0505395 t=1818
+xiu hao 	修好	c=0 d=0.00347353 t=1818
+xiu hao le zhi hou 	修好了之後	c=1 d=0.0349094 t=1818
+xiu jia 	休假	c=1 d=0.646895 t=1818
+xiu jia ji hua 	休假計畫	c=2 d=0.896755 t=1818
+xu qiu 	需求	c=1 d=0.0632918 t=1818
+xu yao 	需要	c=5 d=0.115868 t=1818
+xu yao duo shao shi jian 	需要多少時間	c=1 d=0.000169103 t=1818
+xu yao qu diao 	需要去掉	c=1 d=0.000816895 t=1818
+xu ying 	虛應	c=1 d=0.00794669 t=1818
+xuan shang 	選上	c=1 d=0.25924 t=1818
+xuan ze 	選擇	c=1 d=0.0165911 t=1818
+xuan ze kun nan zheng 	選擇困難症	c=1 d=0.000184106 t=1818
+xue xi 	學習	c=0 d=0.000321477 t=1818
+xue xi zi liao 	學習資料	c=1 d=0.00323088 t=1818
+xue xiao ban 	血小板	c=1 d=0.000285862 t=1818
+xun fei 	訊飛	c=6 d=0.00427819 t=1818
+yan ge 	嚴格	c=1 d=0.0322254 t=1818
+yan se 	顏色	c=1 d=0.0185924 t=1818
+yan shi 	演示	c=3 d=0.00192627 t=1818
+yan shi jiao ben 	演示腳本	c=2 d=0.00128038 t=1818
+yan shou 	驗收	c=1 d=0.000720907 t=1818
+yang cheng 	養成	c=1 d=0.839457 t=1818
+yang huan 	楊歡	c=1 d=0.00047367 t=1818
+yang pu 	楊浦	c=0 d=0.00173355 t=1818
+yang pu qu 	楊浦區	c=1 d=0.378916 t=1818
+yang pu xiao xue 	楊浦小學	c=3 d=0.525593 t=1818
+yao 	要	c=1 d=0.00345964 t=1818
+yao dao 	要到	c=0 d=0.0157237 t=1818
+yao dao ren 	要到人	c=1 d=0.158025 t=1818
+yao dian 	要點	c=1 d=0.927743 t=1818
+yao hui qu nan 	要回去難	c=1 d=0.00293808 t=1818
+yao qing 	邀請	c=1 d=0.000717312 t=1818
+yao qiu 	要求	c=1 d=0.327915 t=1818
+yao shi you 	要是有	c=1 d=0.71177 t=1818
+yao xie 	要寫	c=0 d=0.0271173 t=1818
+yao xie qing chu 	要寫清楚	c=1 d=0.272532 t=1818
+ye 	也	c=3 d=0.177726 t=1818
+ye 	葉	c=0 d=0.0151072 t=1818
+ye 	頁	c=1 d=0.000190664 t=1818
+ye bu 	也不	c=0 d=0.000503193 t=1818
+ye bu zen me yang ma 	也不怎麼樣嘛	c=1 d=0.000261259 t=1818
+ye mian 	頁面	c=1 d=0.00157264 t=1818
+ye shi 	也是	c=1 d=0.00126207 t=1818
+ye shi guo le 	也試過了	c=1 d=0.0118551 t=1818
+ye xu 	也許	c=1 d=0.00302755 t=1818
+ye zhi you 	也只有	c=1 d=0.00201931 t=1818
+yi 	一	c=0 d=0.220842 t=1818
+yi 	以	c=2 d=0.127655 t=1818
+yi 	已	c=1 d=0.603506 t=1818
+yi bu de 	異步的	c=1 d=0.000443861 t=1818
+yi dai 	一代	c=1 d=0.0128424 t=1818
+yi dian 	一點	c=0 d=0.000269866 t=1818
+yi dian ban 	一點半	c=1 d=0.806541 t=1818
+yi ding yao 	一定要	c=0 d=0.00285814 t=1818
+yi ding yao xiao xin o 	一定要小心哦	c=1 d=0.0287246 t=1818
+yi fa song 	已發送	c=1 d=0.0898153 t=1818
+yi fen 	一份	c=0 d=0.00944202 t=1818
+yi ge 	一個	c=2 d=0.00136799 t=1818
+yi ge ren 	一個人	c=1 d=0.0800583 t=1818
+yi gu zuo qi 	一鼓作氣	c=1 d=0.000921047 t=1818
+yi hou 	以後	c=0 d=0.00271874 t=1818
+yi ji 	以及	c=1 d=0.000564257 t=1818
+yi jian 	意見	c=0 d=0.000105417 t=1818
+yi jing 	已經	c=6 d=0.51148 t=1818
+yi ju hua 	一句話	c=0 d=0.00399551 t=1818
+yi liang che 	一輛車	c=1 d=0.782705 t=1818
+yi lou 	一樓	c=0 d=0.0798516 t=1818
+yi miao 	一秒	c=0 d=0.000719046 t=1818
+yi qi 	一起	c=3 d=0.316771 t=1818
+yi qian 	以前	c=1 d=0.489192 t=1818
+yi shang 	以上	c=1 d=0.0536647 t=1818
+yi sheng 	一聲	c=1 d=0.247337 t=1818
+yi si 	疑似	c=1 d=0.0096577 t=1818
+yi ting dao 	一聽到	c=1 d=0.10435 t=1818
+yi wen 	疑問	c=0 d=0.0148823 t=1818
+yi xia 	一下	c=6 d=0.572566 t=1818
+yi xiao shi 	一小時	c=1 d=0.000372602 t=1818
+yi xie 	一些	c=0 d=7.96726e-05 t=1818
+yi xie wen ben 	一些文本	c=1 d=0.000800719 t=1818
+yi yang 	一樣	c=3 d=0.0641077 t=1818
+yi yang de 	一樣的	c=1 d=0.0119145 t=1818
+yi yang mei you fan ying 	一樣沒有反應	c=1 d=0.00257991 t=1818
+yi yi 	意義	c=0 d=0.0927743 t=1818
+yi you 	已有	c=1 d=0.000176887 t=1818
+yi zhi 	已知	c=1 d=0.0057994 t=1818
+yi zu 	一組	c=1 d=0.00618889 t=1818
+yin ci 	因此	c=1 d=0.053397 t=1818
+yin jiao 	引腳	c=10 d=0.0599391 t=1818
+yin jiao tu 	引腳圖	c=1 d=0.0031354 t=1818
+yin qing 	引擎	c=1 d=0.000121572 t=1818
+yin ren er yi 	因人而異	c=1 d=0.000323925 t=1818
+yin wei 	因爲	c=0 d=0.00581561 t=1818
+yin wei kuo zhan ban 	因爲擴展板	c=1 d=0.00259284 t=1818
+yin wei you shi pin 	因爲有視頻	c=1 d=0.0558548 t=1818
+ying gai 	應該	c=7 d=0.772507 t=1818
+ying gai de 	應該的	c=1 d=0.0152985 t=1818
+ying gai gai cheng zhong wen 	應該改成中文	c=1 d=0.00111936 t=1818
+ying gai shi 	應該是	c=1 d=0.00158052 t=1818
+ying jian 	硬件	c=1 d=0.00701293 t=1818
+ying she 	影射	c=0 d=0.000379148 t=1818
+ying she dao 	影射到	c=1 d=0.00381048 t=1818
+ying wen 	英文	c=5 d=0.00142849 t=1818
+ying xiang 	影響	c=0 d=0.000245409 t=1818
+ying yu 	英語	c=1 d=0.00121866 t=1818
+yong 	用	c=4 d=0.188695 t=1818
+yong de shi 	用的是	c=1 d=0.00263203 t=1818
+yong yi xia 	用一下	c=1 d=0.0131675 t=1818
+you 	又	c=0 d=0.0145148 t=1818
+you 	有	c=2 d=0.726269 t=1818
+you 	由	c=1 d=0.310367 t=1818
+you bang zhu 	有幫助	c=1 d=0.00307331 t=1818
+you cuo 	有錯	c=1 d=0.145148 t=1818
+you dian 	有點	c=2 d=0.129219 t=1818
+you dian man 	有點慢	c=1 d=0.00362464 t=1818
+you ge 	有個	c=0 d=0.000313942 t=1818
+you ge jian yi 	有個建議	c=1 d=0.00108086 t=1818
+you ge shi he ni tao lun 	有個事和你討論	c=1 d=0.0023935 t=1818
+you hui 	有會	c=1 d=0.280832 t=1818
+you jian 	郵件	c=5 d=0.635004 t=1818
+you jian yi jing 	郵件已經	c=1 d=0.160414 t=1818
+you ke 	遊客	c=0 d=0.0293758 t=1818
+you ke zhong xin 	遊客中心	c=1 d=0.29523 t=1818
+you kong 	有空	c=2 d=0.491201 t=1818
+you mei you 	有沒有	c=5 d=0.74223 t=1818
+you qi ta ren 	有其他人	c=1 d=0.000243596 t=1818
+you shen me 	有什麼	c=0 d=0.00023935 t=1818
+you shen me fa xian 	有什麼發現	c=1 d=0.00240549 t=1818
+you shen me yao zhu yi de di fang ma 	有什麼要注意的地方嗎	c=1 d=0.00242967 t=1818
+you wen ti 	有問題	c=4 d=0.0620012 t=1818
+you wen ti ma 	有問題嗎	c=1 d=0.00612731 t=1818
+you wu 	有誤	c=1 d=0.125556 t=1818
+you xiang 	郵箱	c=3 d=0.210923 t=1818
+you xing qu ma 	有興趣嗎	c=1 d=0.000244817 t=1818
+you yi ge 	有一個	c=1 d=0.000220415 t=1818
+you yu 	由於	c=1 d=0.344728 t=1818
+yu 	與	c=0 d=0.0941765 t=1818
+yu ju 	語句	c=0 d=1.84106e-05 t=1818
+yu ju liu 	語句流	c=1 d=0.000185029 t=1818
+yu yin 	語音	c=3 d=0.0240589 t=1818
+yu yin kong zhi 	語音控制	c=8 d=0.0973272 t=1818
+yu yin shi bie 	語音識別	c=5 d=0.0343487 t=1818
+yu yin shi bie mo kuai 	語音識別模塊	c=2 d=0.0156515 t=1818
+yu yu 	俞禹	c=1 d=0.000468957 t=1818
+yuan cheng 	遠程	c=0 d=0.00278757 t=1818
+yuan lai 	原來	c=1 d=0.0107269 t=1818
+yuan li 	原理	c=1 d=0.00228818 t=1818
+yuan shi 	原始	c=1 d=0.0200405 t=1818
+yuan yin 	原因	c=0 d=0.000396599 t=1818
+yue da 	越大	c=1 d=0.261846 t=1818
+yue di 	月底	c=1 d=0.000376347 t=1818
+yue zao 	越早	c=1 d=0.257947 t=1818
+yun 	雲	c=1 d=0.000159251 t=1818
+yun duan 	雲端	c=1 d=0.118245 t=1818
+zai 	在	c=10 d=0.571178 t=1818
+zai ban gong shi 	在辦公室	c=1 d=0.000308127 t=1818
+zai ci 	在此	c=0 d=0.00515605 t=1818
+zai ci deng lu 	在此登錄	c=1 d=0.0518189 t=1818
+zan ba zan ma 	咱爸咱媽	c=1 d=0.0155297 t=1818
+zen me 	怎麼	c=0 d=0.0158025 t=1818
+zen me shuo 	怎麼說	c=1 d=0.00165327 t=1818
+zen me ti xing 	怎麼提醒	c=1 d=0.158817 t=1818
+zen me yang 	怎麼樣	c=0 d=2.59956e-05 t=1818
+zeng gao 	增高	c=1 d=0.000287295 t=1818
+zeng jia 	增加	c=0 d=0.0970446 t=1818
+zeng jia lian jie 	增加連接	c=1 d=0.97531 t=1818
+zeng qiang 	增強	c=1 d=0.000322309 t=1818
+zhan dian 	站點	c=1 d=0.000136389 t=1818
+zhan kai 	展開	c=1 d=0.00224287 t=1818
+zhan shi 	展示	c=2 d=0.0350351 t=1818
+zhan zai 	站在	c=1 d=0.00013845 t=1818
+zhang hao 	帳號	c=1 d=0.196912 t=1818
+zhang wo 	掌握	c=1 d=0.000422213 t=1818
+zhao 	找	c=3 d=0.00481424 t=1818
+zhao dao 	找到	c=1 d=0.0290122 t=1818
+zhao ge 	找個	c=1 d=0.00343067 t=1818
+zhao gu 	照顧	c=1 d=0.0753961 t=1818
+zhao ni 	找你	c=0 d=0.02334 t=1818
+zhao pian 	照片	c=1 d=0.774916 t=1818
+zhao ta 	找他	c=1 d=0.00197932 t=1818
+zhao yi xia 	找一下	c=1 d=0.00152616 t=1818
+zhe ci 	這次	c=1 d=0.313486 t=1818
+zhe feng 	這封	c=1 d=0.127454 t=1818
+zhe ge 	這個	c=11 d=1.01558 t=1818
+zhe ge tai feng 	這個颱風	c=1 d=0.0288686 t=1818
+zhe ge wang zhan 	這個網站	c=1 d=0.045502 t=1818
+zhe hai zi 	這孩子	c=1 d=0.0372538 t=1818
+zhe hui er 	這會兒	c=0 d=0.000208081 t=1818
+zhe hui er you kong ma 	這會兒有空嗎	c=1 d=0.00209124 t=1818
+zhe li 	這裏	c=1 d=0.00900478 t=1818
+zhe liang tian 	這兩天	c=0 d=0.00109985 t=1818
+zhe me 	這麼	c=0 d=0.00374406 t=1818
+zhe me cheng hu wo 	這麼稱呼我	c=1 d=0.0376283 t=1818
+zhe shi 	這是	c=2 d=0.156304 t=1818
+zhe shi 	這時	c=1 d=0.0231676 t=1818
+zhe yang 	這樣	c=0 d=0.0077028 t=1818
+zhe yi dian 	這一點	c=0 d=0.0154124 t=1818
+zhen shi 	真實	c=1 d=0.000387808 t=1818
+zhen shi de 	真實的	c=1 d=0.000290183 t=1818
+zheng 	症	c=0 d=1.83188e-05 t=1818
+zheng chang 	正常	c=2 d=0.00966696 t=1818
+zheng da 	睜大	c=0 d=7.84864e-05 t=1818
+zheng da shuang yan 	睜大雙眼	c=1 d=0.000788798 t=1818
+zheng ge 	整個	c=1 d=0.023977 t=1818
+zheng ge xia wu 	整個下午	c=1 d=0.260621 t=1818
+zheng li 	整理	c=2 d=0.876571 t=1818
+zheng zai 	正在	c=0 d=0.0273898 t=1818
+zheng zai shen qing 	正在申請	c=1 d=0.275271 t=1818
+zhi 	之	c=0 d=7.65486e-05 t=1818
+zhi bo dai huo 	直播帶貨	c=1 d=0.000311223 t=1818
+zhi chi 	支持	c=1 d=0.20089 t=1818
+zhi dao 	知道	c=0 d=0.0104874 t=1818
+zhi hou 	之後	c=1 d=0.00508597 t=1818
+zhi jie 	直接	c=0 d=0.00114473 t=1818
+zhi jie bao ming 	直接報名	c=1 d=0.0115047 t=1818
+zhi neng jia ju 	智能家居	c=1 d=0.062662 t=1818
+zhi qian 	之前	c=3 d=0.998401 t=1818
+zhi shu 	直屬	c=1 d=0.000973123 t=1818
+zhi xing 	執行	c=1 d=0.0168755 t=1818
+zhi yi 	之一	c=1 d=0.218712 t=1818
+zhi yong 	只用	c=1 d=0.00019549 t=1818
+zhi you 	只有	c=0 d=0.0318087 t=1818
+zhi you he nan 	只有河南	c=1 d=0.282239 t=1818
+zhi you wo ma 	只有我媽	c=1 d=0.0374406 t=1818
+zhong 	中	c=2 d=0.00208326 t=1818
+zhong hai 	中海	c=1 d=0.000161662 t=1818
+zhong wen 	中文	c=1 d=0.00132396 t=1818
+zhong xin 	中心	c=0 d=0.0293758 t=1818
+zhou dui chen 	軸對稱	c=1 d=0.18452 t=1818
+zhou san 	週三	c=1 d=0.0256042 t=1818
+zhou wu 	週五	c=3 d=0.975982 t=1818
+zhou wu zhi qian 	週五之前	c=1 d=0.000157671 t=1818
+zhou yi 	週一	c=1 d=0.0137049 t=1818
+zhu ban 	主板	c=3 d=0.0315528 t=1818
+zhu yi 	注意	c=0 d=0.000241755 t=1818
+zhua jin shi jian 	抓緊時間	c=0 d=0.000144449 t=1818
+zhua zhu ji hui 	抓住機會	c=1 d=0.00245409 t=1818
+zhuan 	轉	c=1 d=0.0891011 t=1818
+zhuan fa 	轉發	c=0 d=0.00977834 t=1818
+zhuan fa le 	轉發了	c=1 d=0.0982736 t=1818
+zhuang bu xia 	裝不下	c=1 d=0.0584257 t=1818
+zhuang tai 	狀態	c=3 d=0.0244022 t=1818
+zhuang tai xin xi 	狀態信息	c=1 d=0.00150344 t=1818
+zhun bei 	準備	c=1 d=0.1029 t=1818
+zhun bei cai liao 	準備材料	c=1 d=0.67368 t=1818
+zhun bei cai liao de shi jian 	準備材料的時間	c=1 d=0.357007 t=1818
+zhun bei gong zuo 	準備工作	c=1 d=0.308819 t=1818
+zhuo mian 	桌面	c=1 d=0.203926 t=1818
+zi 	紫	c=1 d=0.408608 t=1818
+zi ding yi 	自定義	c=1 d=0.0192547 t=1818
+zi dong 	自動	c=1 d=0.0485578 t=1818
+zi ji 	自己	c=4 d=0.219258 t=1818
+zi ji kai fa 	自己開發	c=2 d=0.0426672 t=1818
+zi liao 	資料	c=0 d=0.000321477 t=1818
+zi qiu duo fu 	自求多福	c=1 d=0.172045 t=1818
+zi se 	紫色	c=1 d=0.0325493 t=1818
+zi wai deng 	紫外燈	c=1 d=0.0228227 t=1818
+zi wo jie shao 	自我介紹	c=1 d=0.01649 t=1818
+zong 	總	c=0 d=0.00294518 t=1818
+zong neng 	總能	c=0 d=0.00275983 t=1818
+zong neng zhao dao ban fa 	總能找到辦法	c=1 d=0.0277367 t=1818
+zong shi qian gua 	總是牽掛	c=1 d=0.0295994 t=1818
+zou 	走	c=0 d=0.0163377 t=1818
+zou bu zou 	走不走	c=1 d=0.155673 t=1818
+zou shen me shou xu 	走什麼手續	c=1 d=0.00852289 t=1818
+zou tong 	走通	c=1 d=0.00212284 t=1818
+zu che 	租車	c=1 d=0.293758 t=1818
+zu zhi 	組織	c=1 d=0.690458 t=1818
+zui 	最	c=1 d=0.210136 t=1818
+zui duo 	最多	c=1 d=0.264477 t=1818
+zui hao 	最好	c=1 d=0.00289433 t=1818
+zui hou 	最後	c=0 d=0.00132999 t=1818
+zui hou chang shi yi xia 	最後嘗試一下	c=1 d=0.0133665 t=1818
+zui jian dan de 	最簡單的	c=0 d=0.000272578 t=1818
+zui jin 	最近	c=1 d=0.208045 t=1818
+zui zhong 	最終	c=2 d=0.00210731 t=1818
+zuo 	做	c=1 d=0.21347 t=1818
+zuo biao 	座標	c=1 d=0.571209 t=1818
+zuo dao 	做到	c=0 d=0.0154124 t=1818
+zuo dao zhe yi dian 	做到這一點	c=1 d=0.154896 t=1818
+zuo de 	做的	c=1 d=0.000259956 t=1818
+zuo guo 	做過	c=1 d=0.000349153 t=1818
+zuo pin 	作品	c=1 d=0.0862936 t=1818
+zuo tian 	昨天	c=2 d=0.0167271 t=1818
+zuo wan 	做完	c=4 d=0.00654676 t=1818
+zuo wan le ma 	做完了嗎	c=1 d=0.00144449 t=1818
+zuo wei 	作爲	c=2 d=0.194914 t=1818
+zuo zhe 	作者	c=1 d=0.017163 t=1818
