@@ -1,8 +1,8 @@
 distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
-distribution_version: 0.15.2
+distribution_version: 0.16.2
 install_time: "Thu Sep  2 09:36:57 2021"
-installation_id: "brainocean_macos"
-rime_version: 1.7.3
-update_time: "Tue Oct 12 15:25:41 2021"
+installation_id: brainocean_macos
+rime_version: 1.8.5
 sync_dir: "/Users/i067908/Library/Rime/sync"
+update_time: "Mon Feb  6 10:34:39 2023"

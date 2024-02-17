@@ -8,6 +8,9 @@ patch:
         
   menu/page_size: 9   # 候选词个数
 
+  switcher/hotkeys:  # 這個列表裏每項定義一個快捷鍵，使哪個都中
+    - "Control+Shift+grave"
+
 # 若caps切换大小写无效,打开系统偏好设置-键盘-输入法-取消勾选[使用大写锁定键切换“美国”输入模式]
   ascii_composer/good_old_caps_lock: true   # 若为true，caps只切换大小写
   ascii_composer/switch_key:
